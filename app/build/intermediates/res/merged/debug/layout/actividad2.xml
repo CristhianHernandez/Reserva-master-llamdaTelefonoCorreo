@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/muestraDatos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="75dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="20sp" />
+
+
+    <Button
+        android:text="Lllmar para confirmar reservacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/muestraDatos"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/button2"
+        android:onClick="llamada"/>
+
+    <Button
+        android:id="@+id/hacerOtraReservacion"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="115dp"
+        android:onClick="hacerOtraReserva"
+        android:text="Hacer Otra Reservacion"
+        android:layout_below="@+id/muestraDatos"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:text="Avisar a mis amigos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="44dp"
+        android:id="@+id/button4"
+        android:onClick="correo"/>
+
+
+</RelativeLayout>

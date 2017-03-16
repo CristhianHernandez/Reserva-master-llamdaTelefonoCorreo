@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cristhian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_8d23a88f460dbad97ef402edb1ed92a596e6e749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Reserva-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d47be2a792de449c20835b7281da28061503d004">
+        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run_cf345ad84bf45f1ea9f92e14c23792f3fc81882d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Reserva-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="66f467f95062f7e63d2fe8a9d8f8710206353b8c">
+        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_488b64cd4703f52bff476148cebd8c06bc3efee3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_a51844ec6c32ac415d7ce9df0ca52a56c87d4cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\Reserva-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_a35cf7f49f830cc6330890fbec323d48e71f53a7.jar" />
+    </item>
+
+</items>
